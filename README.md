@@ -1,6 +1,10 @@
 # Image_Splitter
 An application to help artists take ratios from images they want to portrait.  
-  
+
+#Prerequisites:  
+- Install Python 2.7  
+- Install PyQt4 and wxPython libraries  
+
 #USAGE:  
 1- File -> Open Image to open an image from your computer to be viewed in the graphics scene.  
 2- Specify the scale dimensions of the paper you will draw on in centimeters.  
